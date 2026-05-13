@@ -14,10 +14,15 @@ Passionate about software engineering, Linux environments, clean architecture an
 - Currently focusing on: `React`, `Next.js`, `Node.js`, `Backend Engineering`, `Docker`, `AWS`
 
 ```bash
-~/consciousness
-↳ learning systems
-↳ refining craft
-↳ building the unseen
+~/void $ nvim Dockerfile
+
+~/void $ docker build -t universe:genesis .
+
+~/void $ docker run --rm -it universe:genesis
+
+> let there be light
+> universe: running
+> and God saw it was good...
 ```
 
 > To build is to shape the hidden.
