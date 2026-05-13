@@ -1,4 +1,23 @@
-## Ave! Nice to meet you 👋
 
-<p>Welcome to my profile! I'm <b>Thiago</b>, a vocational computer science student at the Federal Institute of São Paulo. I'm aiming to enter college next year to continue studying this beautiful science!</p>
-<p>Feel free to explore my Github, and <i>excuse the mess!</i></p>
+### Greetings, traveler!
+
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=8b5cf6)](mailto:thiagolmacieldev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/thiagolmaciel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=8b5cf6)](https://thiagolmacieldev.vercel.app/)
+
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanYxcXdwNjN3NnpnMDBoNjE1Mnp6ZHF6cXZtaGM1bWpyd25zMGJmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ao9DUiTKH60XS/giphy.gif" width="180px"/>
+
+Full Stack Developer focused on modern, scalable and efficient applications.
+
+Passionate about software engineering, Linux environments, clean architecture and performance-driven development.
+
+- Currently focusing on: `React`, `Next.js`, `Node.js`, `Backend Engineering`, `Docker`, `AWS`
+
+```bash
+~/consciousness
+↳ learning systems
+↳ refining craft
+↳ building the unseen
+```
+
+> To build is to shape the hidden.
